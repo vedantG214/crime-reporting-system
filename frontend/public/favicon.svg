@@ -1,0 +1,5 @@
+{/* Logo */}
+<Link to="/" className="flex items-center gap-2.5 font-bold text-xl tracking-tight text-slate-900 dark:text-white">
+  <img src="/favicon.svg" alt="CrimeGuard Logo" className="w-8 h-8 drop-shadow-md hover:scale-105 transition-all" />
+  <span>Crime<span className="text-cyan-500">Guard</span></span>
+</Link>
